@@ -1,5 +1,5 @@
 # Gardener
-[![Project Stats](https://www.openhub.net/p/gardener/widgets/project_thin_badge.gif)](https://www.openhub.net/p/gardener)
+[![Project Stats](https://www.openhub.net/p/gardener/widgets/project_basic_stats)](https://www.openhub.net/p/gardener)
 
 <script type='text/javascript' src='https://www.openhub.net/p/gardener/widgets/project_basic_stats?format=js'></script>
 
